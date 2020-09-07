@@ -1,0 +1,29 @@
+body {
+    background-image: url(red_dragon.png);
+    
+}
+
+img {
+    width: 200px;
+    border-radius: 50%;
+}
+
+#header{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(248, 198,178);
+    font-size: 15px;
+} 
+
+.article1, .article2, .article3, .aside{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(82, 59, 59);    
+}
+
+.footer{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(82, 59, 59);
+    background-color: rgb(58, 3, 3);
+    border: 5px solid white;
+    
+
+}
